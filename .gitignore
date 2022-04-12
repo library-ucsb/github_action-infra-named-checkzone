@@ -29,3 +29,4 @@ terraform.rc
 
 run-*
 repos.txt
+plan
